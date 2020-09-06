@@ -1,4 +1,4 @@
-# Genetic-Algorithm
+# Genetic Algorithm
 
 ## Description:
 This implementation for NEOM AI challenge.
