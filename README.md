@@ -16,7 +16,7 @@ GA was implemented by Python language and used PyCharm which is an integrated de
 
 1.	Install and setup PyCharm, can be found [here](https://www.jetbrains.com/pycharm/download/#section=windows) .
   -	Run the pycharm-2020.2.exe file that starts the Installation Wizard.
-  - 	Follow all steps suggested by the wizard. Please pay special attention to the corresponding installation options.
+  - Follow all steps suggested by the wizard. Please pay special attention to the corresponding installation options.
 2.  Download files on github
 3.  Download libraries(network,pandas, matplotlib) from on PyCham File-> Setting -> Project: "project name.py" -> Project interpreter -> add icon  
 4.  Run main class 
