@@ -14,7 +14,7 @@ Finally, GA is always able to provide an answer, and the answers get better with
 ## Installation steps:
 GA was implemented by Python language and used PyCharm which is an integrated development environment (IDE) used in computer programming, specifically for python.
 
-1.	Install and setup PyCharm, can be found [here] (https://www.jetbrains.com/pycharm/download/#section=windows) .
+1.	Install and setup PyCharm, can be found [here](https://www.jetbrains.com/pycharm/download/#section=windows) .
    o	Run the pycharm-2020.2.exe file that starts the Installation Wizard.
    o	Follow all steps suggested by the wizard. Please pay special attention to the corresponding installation options.
 2.  Download files on github
