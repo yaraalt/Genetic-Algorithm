@@ -2,8 +2,8 @@
 
 
 ## Description:
-This implementation is the NEOM AI challenge.
-The Genetic algorithm (GA) is an implementation for an idea named “Lyra” that computes the best route based upon the chosen preferences by users.  Thereby, providing the user with optimal results. GA was chosen because of its features. GA supports multi-objective problems and it offers good optimization. 
+This implementation is for the NEOM AI challenge.
+The Genetic algorithm (GA) is an implementation for an idea named “Lyra” that computes the best route based upon the user chosen preferences.  Thereby, providing the user with optimal results. GA was chosen because of its features. GA supports multi-objective problems and it offers good optimization. 
 The random mutation used guarantees, to some extent, that wide range of solutions will be provided. 
 Finally, GA is always able to provide an answer, and the answers get better with time.
 
@@ -15,7 +15,7 @@ Finally, GA is always able to provide an answer, and the answers get better with
 
 
 ## Installation steps:
-GA was implemented by Python language and used PyCharm which is an integrated development environment (IDE) used in computer programming, specifically for python.
+GA was implemented with the use of the Python language and PyCharm which is an integrated development environment (IDE) used in computer programming, specifically for python.
 
 1.	Install and setup PyCharm, can be found [here](https://www.jetbrains.com/pycharm/download/#section=windows) .
   -	Run the pycharm-2020.2.exe file that starts the Installation Wizard.
