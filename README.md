@@ -3,7 +3,7 @@
 
 ## Description:
 This implementation is for the NEOM AI challenge.
-The Genetic algorithm (GA) is an implementation for an idea named “Lyra” that computes the best route based upon the user chosen preferences.  Thereby, providing the user with optimal results. GA was chosen because of its features. GA supports multi-objective problems and it offers good optimization. 
+The Genetic algorithm (GA) is an implementation for an idea named “Lyra” that computes the best route based upon the user is chosen preferences.  Thereby, providing the user with optimal results. GA was chosen because of its features. GA supports multi-objective problems and it offers good optimization. 
 The random mutation used guarantees, to some extent, that wide range of solutions will be provided. 
 Finally, GA is always able to provide an answer, and the answers get better with time.
 
